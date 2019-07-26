@@ -1,0 +1,14 @@
+juil. 26, 2019 2:44:39 PM fr.eni.log.Application main
+INFOS: Début de l'application
+juil. 26, 2019 2:44:39 PM fr.eni.log.Log log
+INFOS: Debut de la methode log
+juil. 26, 2019 2:44:39 PM fr.eni.log.Application main
+INFOS: Fin de l'application
+juil. 26, 2019 2:45:29 PM fr.eni.log.Application main
+INFOS: Début de l'application
+juil. 26, 2019 2:45:29 PM fr.eni.log.Application main
+GRAVE: Probleme
+juil. 26, 2019 2:45:29 PM fr.eni.log.Log log
+INFOS: Debut de la methode log
+juil. 26, 2019 2:45:29 PM fr.eni.log.Application main
+INFOS: Fin de l'application
